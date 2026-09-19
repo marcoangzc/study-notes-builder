@@ -28,6 +28,3 @@ Works for programming, maths, accounting, law, biology and other subjects. Notes
 |---|---|
 | `SKILL.md` | The skill: triggers, workflow, note structure, subject adaptations |
 
-## License
-
-MIT (add a `LICENSE` file before publishing)
